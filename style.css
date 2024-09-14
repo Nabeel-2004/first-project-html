@@ -1,0 +1,16 @@
+th{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+}
+caption{
+    border: 1px solid black;
+}
+#hello{
+    text-align: center;
+}
+
+fieldset{
+    border: 1px solid black;
+}
